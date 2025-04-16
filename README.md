@@ -10,10 +10,14 @@ View sales and customer order data
 
 #### Customer Portal
 Browse flower catalog by category/price/occasion
+
 Add to cart and checkout
+
 Receive order confirmation via email
 
 #### Order & Inventory
 Real-time stock tracking
+
 Order lifecycle (placed → processed → delivered)
+
 Supplier restocking notifications
